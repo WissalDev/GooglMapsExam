@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">maps</string>
-    <string name="title_activity_maps">MapsActivity</string>
+    <string name="app_name">Google maps</string>
+    <string name="title_activity_maps">Google maps</string>
 </resources>
